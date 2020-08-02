@@ -1,7 +1,0 @@
-E:\Assignment_c#\GameInheritance\bin\Debug\GameInheritance.exe.config
-E:\Assignment_c#\GameInheritance\bin\Debug\GameInheritance.exe
-E:\Assignment_c#\GameInheritance\bin\Debug\GameInheritance.pdb
-E:\Assignment_c#\GameInheritance\obj\Debug\GameInheritance.csprojAssemblyReference.cache
-E:\Assignment_c#\GameInheritance\obj\Debug\GameInheritance.csproj.CoreCompileInputs.cache
-E:\Assignment_c#\GameInheritance\obj\Debug\GameInheritance.exe
-E:\Assignment_c#\GameInheritance\obj\Debug\GameInheritance.pdb
